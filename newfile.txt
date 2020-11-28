@@ -1,0 +1,2 @@
+This is a remote file created in a remote repository.
+Local repository is your laptop. Remote is an online server such as github.
