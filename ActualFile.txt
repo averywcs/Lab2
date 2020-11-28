@@ -1,0 +1,2 @@
+This is the actual file I wanted to add. Did not configure gitbash right prior to this.
+Remember github is a remote repository. Local is your laptop.
